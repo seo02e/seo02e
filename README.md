@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+<img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70"&fontColor=![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6) />
+
 ### Hi there 👋 Welcome to my GitHub.
 ***
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
