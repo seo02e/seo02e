@@ -2,6 +2,7 @@
 <div align=center>
 
 ## Hi there 👋 Welcome to my GitHub.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo02e&count_bg=%23DEB0F7&title_bg=%23C0BDBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
   <h6>I am attending Hallym University and will graduate in February of 25.</h6>
   
