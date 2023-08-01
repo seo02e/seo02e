@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
-
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 ### Hi there 👋 Welcome to my GitHub.
 ***
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
