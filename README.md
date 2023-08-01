@@ -23,11 +23,12 @@
 
 ***
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=panda)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=compact&theme=panda)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
+
 
 <div align=center><h1>📚 STACKS 📚 </h1></div>
 <div align=center> 
