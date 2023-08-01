@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub.
+
+#### 한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
+#### 현재 저의 깃허브 디렉토리에는 C, C++언어를 중점으로 공부하는 내용을 업로드 하고 있습니다.
 
 <!--
 **seo02e/seo02e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
