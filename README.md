@@ -1,11 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70"/>
-
+<div align=center>
 ### Hi there 👋 Welcome to my GitHub.
 ***
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
+  <h1>I am attending Hallym University and will graduate in February of 25.</h1>
 #####   현재 저의 깃허브 디렉토리에는 C, C++언어를 중점으로 공부하는 내용을 업로드 하고 있습니다.
+    <h1>Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h1>
 * * *
-
+</div>
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=panda)
 </div>
 
