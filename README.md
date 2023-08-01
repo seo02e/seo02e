@@ -3,10 +3,10 @@
 
 ### Hi there 👋 Welcome to my GitHub.
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
-  <h4>I am attending Hallym University and will graduate in February of 25.</h4>
+  <h6>I am attending Hallym University and will graduate in February of 25.</h6>
   
 #####   현재 저의 깃허브 디렉토리에는 C, C++언어를 중점으로 공부하는 내용을 업로드 하고 있습니다.
-    <h4>Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h4>
+  <h6>Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h6>
 * * *
 </div>
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=panda)
