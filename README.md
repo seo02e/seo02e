@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70"/>
 <div align=center>
 
-### Hi there 👋 Welcome to my GitHub.
+## Hi there 👋 Welcome to my GitHub.
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
   <h6>I am attending Hallym University and will graduate in February of 25.</h6>
   
