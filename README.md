@@ -40,6 +40,8 @@
 
 #####   email
 <div align=center>
-* 네이버 : seo020815@naver.com
-* 지메일 : kim0208154@gmail.com
+  
+* 네이버 : <seo020815@naver.com>
+* 지메일 : <kim0208154@gmail.com>
+  
 </div>
