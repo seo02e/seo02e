@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70"&fontColor=![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6) />
+<img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
 
 ### Hi there 👋 Welcome to my GitHub.
 ***
