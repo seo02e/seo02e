@@ -7,6 +7,7 @@
 * * *
 </div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <!--
 **seo02e/seo02e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
