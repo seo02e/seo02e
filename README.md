@@ -8,7 +8,7 @@
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=cobalt)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=Demot&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=demo&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
 
 <div align=center><h1>📚 STACKS 📚 </h1></div>
