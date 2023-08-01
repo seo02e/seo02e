@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
 
 ### Hi there 👋 Welcome to my GitHub.
 ***
