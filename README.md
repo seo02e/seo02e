@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&customColorList=0,2,3&height=300&section=header&text=junseo%Kim&fontSize=70" />
-
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
 ### Hi there 👋 Welcome to my GitHub.
 ***
 #####   한림대학교를 재학중에 있으며, 25년 2월 졸업예정입니다.
@@ -7,9 +7,9 @@
 * * *
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=cobalt)
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=compact&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
-<div align=center><h1>📚 STACKS</h1></div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=Demot&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+<div align=center><h1>📚 STACKS 📚 </h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
