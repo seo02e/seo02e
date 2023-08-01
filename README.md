@@ -9,7 +9,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=Demot&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
 
 <div align=center><h1>📚 STACKS 📚 </h1></div>
 
