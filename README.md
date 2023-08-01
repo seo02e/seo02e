@@ -38,10 +38,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
-#####   email
-<div align=center>
-  
+email
 * 네이버 : <seo020815@naver.com>
 * 지메일 : <kim0208154@gmail.com>
-  
-</div>
