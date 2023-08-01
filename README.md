@@ -11,11 +11,13 @@
   <h6>Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h6>
   
 ***
-#####   취미
+#####   hobby
   <h6> 👻 I like watching Netflix.
       Especially horror, thriller 👻 </h6>
   <h6> 🧙 I like all the things that I make by hand. 🧙 </h6>
   <h6> 🍴 I like to find delicious restaurants. 🍴 </h6>
+  
+***
 
 </div>
 
