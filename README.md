@@ -9,7 +9,7 @@
 #####   한림대학교를 재학중에 있으며, 26년 8월 졸업예정입니다.
   <h6> * I am attending Hallym University and will graduate in February of 25.</h6>
   
-#####   현재 저의 깃허브 디렉토리에는 C, C++언어를 중점으로 공부하는 내용을 업로드 하고 있습니다.
+#####   현재 저는 깃허브 디렉토리에는 다양한 언어를 공부하며 업로드 하면서 적성을 찾는 중입니다. 
   <h6> * Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h6>
   
 ***
