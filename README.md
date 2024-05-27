@@ -10,7 +10,7 @@
   <h6> * I am attending Hallym University and will graduate in February of 25.</h6>
   
 #####   현재 저는 깃허브 디렉토리에는 다양한 언어를 공부하며 업로드 하면서 적성을 찾는 중입니다. 
-  <h6> * Currently, I am uploading the contents of studying C and C++ languages in my GitHub directory.</h6>
+  <h6> * Currently, I am uploading the contents of studying JS and C++ languages in my GitHub directory.</h6>
   
 ***
 #####   hobby
