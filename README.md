@@ -22,12 +22,14 @@
 </div>
 
 ***
-
+<div class="level">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seo02)](https://solved.ac/seo02)
 ![seo02e's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo02e&show_icons=true&theme=panda)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo02e&layout=compact&theme=panda)
+</div>
+
 
 
 <div align=center><h1>📚 STACKS 📚 </h1></div>
@@ -43,3 +45,16 @@
 
 * 네이버 : <seo020815@naver.com>
 * 지메일 : <kim0208154@gmail.com>
+
+
+
+<style>
+  h3{
+    color: #333;
+  }
+  .level{
+    display: flex;
+    justify-content: space-between;
+  } 
+  
+</style>
