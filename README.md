@@ -55,6 +55,7 @@
   .level{
     display: flex;
     justify-content: space-between;
+    align-item: center;
   } 
   
 </style>
