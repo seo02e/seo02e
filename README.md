@@ -39,6 +39,6 @@
 
 <h6> email </h6>
 
-* 네이버 : <seo020815@naver.com>
+* 네이버 : <seline21@naver.com>
 * 지메일 : <kim0208154@gmail.com>
 
