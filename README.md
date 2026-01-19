@@ -2,12 +2,12 @@
 <div align=center>
 
 <h1> Hi there 👋 Welcome to my GitHub. </h1>
-<h2> 아직 많이 부족하지만 꼭 이루어냅니다. </h2>
+<h2> 아직 많이 부족하지만 꼭 이루어내겠습니다. </h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo02e&count_bg=%23DEB0F7&title_bg=%23C0BDBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
-#####   한림대학교를 재학중에 있으며, 26년 8월 졸업예정입니다.
-  <h6> * I am attending Hallym University and will graduate in February of 25.</h6>
+#####   한림대학교를 졸업하였습니다.
+  <h6> * I graduated from Hallym University.”</h6>
   
 #####   현재 저는 깃허브 디렉토리에는 다양한 언어를 공부하며 업로드 하면서 적성을 찾는 중입니다. 
   <h6> * Currently, I am uploading the contents of studying JS and C++ languages in my GitHub directory.</h6>
