@@ -2,7 +2,7 @@
 <div align=center>
 
 <h1> Hi there 👋 Welcome to my GitHub. </h1>
-<h2> 아직 많이 부족하지만 꼭 이루어내겠습니다. </h2>
+<h2> 백엔드를 중심으로 공부중에 있습니다. </h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo02e&count_bg=%23DEB0F7&title_bg=%23C0BDBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
