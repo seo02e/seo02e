@@ -69,6 +69,7 @@
 - RAG 구조 기반 서비스 연동
 
 👉 https://github.com/seo02e/advanced_project
+
 ---
 
 ## 🛠 Tech Stack
