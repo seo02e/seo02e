@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DEB0F7,100:C0BDBD&height=300&section=header&text=Backend%20Developer&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header"/>
 
 <div align="center">
 
-# 👋 Hi, I'm Junseo
+<h1>Hi, I'm Junseo 👋</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=DEB0F7&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Redis+%7C+MariaDB;Building+AI-powered+services"/>
+
+</div>
 
 ### 🚀 FastAPI 기반 백엔드 개발자를 목표로 성장 중입니다.
 
