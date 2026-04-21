@@ -6,7 +6,6 @@
 
 ### 🚀 FastAPI 기반 백엔드 개발자를 목표로 성장 중입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seo02e&count_bg=%23DEB0F7&title_bg=%23C0BDBD)](https://hits.seeyoufarm.com)
 
 </div>
 
