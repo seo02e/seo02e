@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<h3>⚡ FastAPI 기반 백엔드 개발자</h3>
-<img src="https://readme-typing-svg.herokuapp.com?color=DEB0F7&size=22&center=true&vCenter=true&width=600&lines=Building+AI-powered+services;Backend+%7C+API+%7C+Data+Processing"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=6464FC&size=28&center=true&vCenter=true&width=700&lines=Building+AI-powered+services;Backend+%7C+API+%7C+Data+Processing"/>
 </div>
 
 
