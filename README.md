@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=250&section=header&text=Backend%20Engineer&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Junseo%20Kim&descAlignY=65&descSize=20"/>
+
 <div align="center">
 
-<h1>Hi, I'm Junseo 👋</h1>
+<h3>⚡ FastAPI 기반 백엔드 개발자</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=DEB0F7&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;FastAPI+%7C+Redis+%7C+MariaDB;Building+AI-powered+services"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=DEB0F7&size=22&center=true&vCenter=true&width=600&lines=Building+AI-powered+services;Backend+%7C+API+%7C+Data+Processing"/>
 
 </div>
 
