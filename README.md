@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=250&section=header&text=Backend%20Engineer&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Junseo%20Kim&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=240&section=header&text=Junseo%20Kim&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&desc=Backend%20Engineer%20%7C%20FastAPI&descAlignY=65&descSize=18&descColor=E0E0E0"/>
 
 <div align="center">
 
 <h3>⚡ FastAPI 기반 백엔드 개발자</h3>
-
 <img src="https://readme-typing-svg.herokuapp.com?color=DEB0F7&size=22&center=true&vCenter=true&width=600&lines=Building+AI-powered+services;Backend+%7C+API+%7C+Data+Processing"/>
-
 </div>
+
+
+
+
 
 ### 🚀 FastAPI 기반 백엔드 개발자를 목표로 성장 중입니다.
 
@@ -32,7 +34,6 @@
 - FastAPI 기반 API 서버 설계 및 구현
 - MariaDB 데이터 모델링 및 SQL 분석 쿼리 작성
 - CSV 데이터 → DB 적재 파이프라인 구축
-- 서비스 로직 및 데이터 처리 구조 설계
 
 **📌 Features**
 - 평균 연봉, 조직 건강도 등 지표 분석 API 제공
@@ -46,11 +47,10 @@
 > 사용자 조건에 맞는 청년 지원 정책을 찾아주는 챗봇 서비스
 
 **📌 My Role (Backend)**
-- FastAPI 기반 챗봇 API 서버 설계
+- FastAPI 기반 챗봇 API 서버 설계 및 구현
 - Redis 기반 세션 관리 및 대화 상태 저장
 - 사용자 입력 → AI 모듈 → 응답 흐름 orchestration 구현
-- AI 모듈(parser, retriever, rag)과의 인터페이스 설계
-- API 응답 구조 및 데이터 흐름 설계
+- AI 모듈(parser, retriever, rag)과의 인터페이스 구현
 
 **📌 My Role (Frontend)**
 - API 테스트 및 기능 검증을 위한 간단한 UI 구현
