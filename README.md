@@ -42,7 +42,7 @@
 
 ---
 
-### 🔍 Youth Policy Chatbot (RAG 기반) (진행중)
+### 🔍 Youth Policy Chatbot (RAG 기반)
 > 사용자 조건에 맞는 청년 지원 정책을 찾아주는 챗봇 서비스
 
 **📌 My Role (Backend)**
