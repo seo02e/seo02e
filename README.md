@@ -70,9 +70,8 @@
 👉 https://github.com/seo02e/advanced_project
 
 ---
-# 🎨 AI Trademark Logo Generator
-
-자연어 입력을 기반으로 상표·로고 이미지를 생성하고, 업종별 트렌드 조회 및 관리자 삭제 기능을 제공하는 AI 기반 로고 생성 서비스
+### 🎨 AI Trademark Logo Generator
+> 자연어·이미지 입력을 기반으로 상표·로고를 생성하고, 기존 상표와의 유사도를 분석해 도용 가능성을 판별하는 AI 서비스
 
 ## 📌 My Role (Backend)
 
